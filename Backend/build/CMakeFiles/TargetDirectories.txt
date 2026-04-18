@@ -1,0 +1,7 @@
+/workspace/TradingSystem/Backend/build/CMakeFiles/TradingBackend.dir
+/workspace/TradingSystem/Backend/build/CMakeFiles/edit_cache.dir
+/workspace/TradingSystem/Backend/build/CMakeFiles/rebuild_cache.dir
+/workspace/TradingSystem/Backend/build/CMakeFiles/list_install_components.dir
+/workspace/TradingSystem/Backend/build/CMakeFiles/install.dir
+/workspace/TradingSystem/Backend/build/CMakeFiles/install/local.dir
+/workspace/TradingSystem/Backend/build/CMakeFiles/install/strip.dir
